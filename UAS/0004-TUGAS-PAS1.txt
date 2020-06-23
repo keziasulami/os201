@@ -1,35 +1,35 @@
 Script started on Mon 08 Jun 2020 11:22:00 PM WIB
-kezia.sulami@badak:~/UAS$ PS1="$ "
+]0;kezia.sulami@badak: ~/UASkezia.sulami@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 keziasulami
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-232512-99a8-UAS/>
+200608-232512-99a8-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
 200608-232535-eb2d-UAS/> echo -e $CEKSAYA
-keziasulami ZCZCSCRIPTSTART 200604-195611 keziasulami
- keziasulami keziasulami 200604-200515-a3a3-kezia.sulami/ 200604-200515 SEQOK SUMOK a3a30d91
- keziasulami keziasulami 200604-200700-c19f-kezia.sulami/ 200604-200700 SEQOK SUMOK c19fe545
- keziasulami keziasulami 200604-200812-233a-kezia.sulami/ 200604-200812 SEQOK SUMOK 233a8679
- keziasulami keziasulami 200604-200845-32cc-kezia.sulami/ 200604-200845 SEQOK SUMOK 32cc0d98
- keziasulami ZCZCSCRIPTSTOP 200604-200917 SEQOK
+keziasulami ZCZCSCRIPTSTART 200604-195611 keziasulami 
+ keziasulami keziasulami 200604-200515-a3a3-kezia.sulami/ 200604-200515 SEQOK SUMOK a3a30d91 
+ keziasulami keziasulami 200604-200700-c19f-kezia.sulami/ 200604-200700 SEQOK SUMOK c19fe545 
+ keziasulami keziasulami 200604-200812-233a-kezia.sulami/ 200604-200812 SEQOK SUMOK 233a8679 
+ keziasulami keziasulami 200604-200845-32cc-kezia.sulami/ 200604-200845 SEQOK SUMOK 32cc0d98 
+ keziasulami ZCZCSCRIPTSTOP 200604-200917 SEQOK 
 
 200608-232558-af62-UAS/> echo -e $CEKSEBELA1
-keziasulami ZCZCSCRIPTSTART 200607-213320 khadijahrizqy
- keziasulami khadijahrizqy 200607-213904-486e-UAS/ 200607-213904 SEQOK SUMOK 486ea0f2
- keziasulami khadijahrizqy 200607-213915-97df-UAS/ 200607-213915 SEQOK SUMOK 97df355e
- keziasulami khadijahrizqy 200607-213919-e360-UAS/ 200607-213919 SEQOK SUMOK e3601596
- keziasulami khadijahrizqy 200607-213928-74ea-UAS/ 200607-213928 SEQOK SUMOK 74ea3fb5
- keziasulami ZCZCSCRIPTSTOP 200607-214140 SEQOK
+keziasulami ZCZCSCRIPTSTART 200607-213320 khadijahrizqy 
+ keziasulami khadijahrizqy 200607-213904-486e-UAS/ 200607-213904 SEQOK SUMOK 486ea0f2 
+ keziasulami khadijahrizqy 200607-213915-97df-UAS/ 200607-213915 SEQOK SUMOK 97df355e 
+ keziasulami khadijahrizqy 200607-213919-e360-UAS/ 200607-213919 SEQOK SUMOK e3601596 
+ keziasulami khadijahrizqy 200607-213928-74ea-UAS/ 200607-213928 SEQOK SUMOK 74ea3fb5 
+ keziasulami ZCZCSCRIPTSTOP 200607-214140 SEQOK 
 
 200608-233253-36c5-UAS/> echo -e $CEKSEBELA2
-keziasulami ZCZCSCRIPTSTART 200608-222235 kholish219
- keziasulami kholish219 200608-222344-b43d-muhammad.nurkholish/ 200608-222344 SEQOK SUMOK b43dedf9
- keziasulami kholish219 200608-222402-5b6a-muhammad.nurkholish/ 200608-222402 SEQOK SUMOK 5b6a2b49
- keziasulami kholish219 200608-222418-8ee4-muhammad.nurkholish/ 200608-222418 SEQOK SUMOK 8ee4616a
- keziasulami kholish219 200608-222427-de14-muhammad.nurkholish/ 200608-222427 SEQOK SUMOK de149289
- keziasulami ZCZCSCRIPTSTOP 200608-222438 SEQOK
+keziasulami ZCZCSCRIPTSTART 200608-222235 kholish219 
+ keziasulami kholish219 200608-222344-b43d-muhammad.nurkholish/ 200608-222344 SEQOK SUMOK b43dedf9 
+ keziasulami kholish219 200608-222402-5b6a-muhammad.nurkholish/ 200608-222402 SEQOK SUMOK 5b6a2b49 
+ keziasulami kholish219 200608-222418-8ee4-muhammad.nurkholish/ 200608-222418 SEQOK SUMOK 8ee4616a 
+ keziasulami kholish219 200608-222427-de14-muhammad.nurkholish/ 200608-222427 SEQOK SUMOK de149289 
+ keziasulami ZCZCSCRIPTSTOP 200608-222438 SEQOK 
 
 200608-233337-3a54-UAS/> exit
 exit
